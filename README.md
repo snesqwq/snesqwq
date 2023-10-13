@@ -26,8 +26,6 @@ NodeJS、Python、CSS、HTML、Magisk、易语言和Android刷机。
 | 莲子粥              | https://lzz.moe              |
 | KFACBT              | https://gytxtx.github.io/    |
 
----
-
 ## 🙏 特别感谢
 
  - [Xiaoyuan151](https://github.com/xiaoyuan151) 提供的`snesite.xyz`域名
